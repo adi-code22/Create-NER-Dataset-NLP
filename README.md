@@ -1,1 +1,1 @@
-# hacKP-AI-NLP
+# AI-NLP
